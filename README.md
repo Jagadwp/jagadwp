@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=jagadwp&count_private=true&show_icons=true&theme=algolia"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadwp&theme=algolia&layout=compact&langs_count=8&exclude_repo=stepdal-db"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadwp&theme=algolia&layout=compact&langs_count=8&exclude_repo=stepdal-db,laravel-9-midone"/>
 </p>
