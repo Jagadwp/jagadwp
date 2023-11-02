@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 My Github Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jagadwp&count_private=true&show_icons=true&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagadwp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadwp&theme=algolia&layout=compact&langs_count=8&exclude_repo=stepdal-db,laravel-9-midone"/>
 </p>
